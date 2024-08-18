@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Aug 2024 20:59:15 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A new hope - trying CloudFlare Pages, Hugo and Hugo-Coder all at once</title>
+      <link>http://localhost:1313/posts/2024-08-18-a-new-hope/</link>
+      <pubDate>Sun, 18 Aug 2024 20:59:15 +0200</pubDate>
+      <guid>http://localhost:1313/posts/2024-08-18-a-new-hope/</guid>
+      <description>A new hope Link to heading Well, I have decided to play around with hugo and static pages. This is my first test.&#xA;The goal of the whole process is:&#xA;To create my blog To learn more about CloudFlare products and start with a easy one This first blog has been created following those links:&#xA;Getting Started with Hugo: https://gohugo.io/getting-started/quick-start/ Getting Started with Hugo-Coder: https://github.com/luizdepra/hugo-coder/blob/main/docs/quick-start.md Hugo-Coder config example: https://github.com/luizdepra/hugo-coder/blob/main/docs/configurations.md#complete-example Creating Hugo sites with CloudFlare pages: https://developers.</description>
+    </item>
+  </channel>
+</rss>

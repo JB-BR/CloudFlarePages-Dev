@@ -1,0 +1,3 @@
+[submodule "HugoSite-CloudFlarePages-Dev/themes/hugo-coder"]
+	path = HugoSite-CloudFlarePages-Dev/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
